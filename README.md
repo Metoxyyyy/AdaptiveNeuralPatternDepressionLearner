@@ -1,7 +1,4 @@
-# AdaptiveNeuralPatternDepressionLearner
-A Neural Network for Pattern Recognition and Addition using Depression Learning
-
-# Adaptive Neural Pattern Depression Learner (ANPDL)
+# AdaptiveNeuralPatternDepressionLearner (ANPDL)
 
 A Neural Network for Pattern Recognition and Addition using Depression Learning
 
@@ -17,7 +14,16 @@ This project implements a neural network that uses depression learning for patte
 
 ## Installation
 ```bash
+# Clone the repository
 git clone https://github.com/Metoxyyyy/AdaptiveNeuralPatternDepressionLearner.git
+
+# Navigate to project directory
 cd AdaptiveNeuralPatternDepressionLearner
+
+# Install dependencies
 npm install
+
+To run the project : node index.js
+
+
 
